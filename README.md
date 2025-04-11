@@ -99,8 +99,9 @@ for test in test_inputs:
 ```    
 
 <H3>Output:</H3>
-![image](https://github.com/user-attachments/assets/54290747-7867-4245-94ee-7a652af3c04d)
-![image](https://github.com/user-attachments/assets/d63fed33-5b02-4e14-9ba9-107b7371524e)
+![image](https://github.com/user-attachments/assets/ad175280-c297-41de-8992-152dae4de1bf)
+![image](https://github.com/user-attachments/assets/d6d8c634-c8b2-4599-9885-d11647f9dc5c)
+
 
 <H3> Result:</H3>
 Thus, XOR classification problem can be solved using MLP in Python 
