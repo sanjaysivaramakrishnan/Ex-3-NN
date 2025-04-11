@@ -93,14 +93,11 @@ test_inputs = [np.array([[1], [0]]),
                np.array([[0], [0]])]
 for test in test_inputs:
     predict(w1, w2, test)
-```
+```    
 
-<H3>Output:</H3
+<H3>Output:</H3>
 ![image](https://github.com/user-attachments/assets/54290747-7867-4245-94ee-7a652af3c04d)
 ![image](https://github.com/user-attachments/assets/d63fed33-5b02-4e14-9ba9-107b7371524e)
-
-
-Show your results here
 
 <H3> Result:</H3>
 Thus, XOR classification problem can be solved using MLP in Python 
