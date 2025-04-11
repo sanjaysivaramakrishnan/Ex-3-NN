@@ -99,6 +99,7 @@ for test in test_inputs:
 ```    
 
 <H3>Output:</H3>
+
 ![image](https://github.com/user-attachments/assets/ad175280-c297-41de-8992-152dae4de1bf)
 ![image](https://github.com/user-attachments/assets/d6d8c634-c8b2-4599-9885-d11647f9dc5c)
 
